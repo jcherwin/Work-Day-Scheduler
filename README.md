@@ -8,7 +8,7 @@ This program utilizes different web development aspects such as: jQuery (Event L
 
 ## Link
 
-This is a link to the project hosted on GitHub Pages: []()
+This is a link to the project hosted on GitHub Pages: [https://jcherwin.github.io/Work-Day-Scheduler/](https://jcherwin.github.io/Work-Day-Scheduler/)
 
 ## Usage
 
